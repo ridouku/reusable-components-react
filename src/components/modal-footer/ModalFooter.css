@@ -1,0 +1,60 @@
+.modal-footer-container{
+    background: #F7FAFC;
+    height: 74px;
+    max-height: 74px;
+    width: 100%;
+    align-self: flex-end;
+    bottom: 0;
+}
+
+.modal-footer-wrap-items{
+    text-align: left;
+    padding: 12px 24px 0px 24px;
+    margin: auto;
+}
+
+.modal-footer-wrap-primary-action {
+    width: auto;
+    float: left;
+}
+
+.modal-footer-wrap-primary-action .MuiButton-root{
+    background: #023365;
+    color: white;
+    text-transform: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    border: none;
+}
+
+.modal-footer-wrap-primary-action .MuiButton-root:hover {
+    background-color: #023365;
+}
+
+.modal-footer-wrap-secondary-action {
+    float: left;
+    width: auto;
+    padding-left: 16px;
+}
+
+
+.modal-footer-wrap-secondary-action .MuiButton-root{
+    background: #F7FAFC;
+    color: #293036;
+    text-transform: none;
+    border: 1px solid #CBD5E0;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+}
+
+.modal-footer-wrap-secondary-action .MuiButton-root:hover {
+    background-color: #F7FAFC;
+}
+
+@media only screen and (max-width: 600px) {
+    .modal-footer-wrap-secondary-action {
+        padding-left: 23px;
+    }
+}

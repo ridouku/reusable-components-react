@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Reusable react components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ridouku/reusable-components-react.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "reusable",
+    "custom components"
+  ],
+  "author": "ridouku@gmail.com",
+  "dependencies": {},
+  "peerDependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/ridouku/reusable-components-react.git",
+  "license": "ISC"
+}

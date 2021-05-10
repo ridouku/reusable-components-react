@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "lib/src/components",
+    "module": "esnext",
+    "target": "es5",
+    "types": ["node"],
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "sourceMap": false,
+    "allowJs": false,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/components"],
+  "exclude": ["components", "node_modules", "e2e/fixtures", "src/**/*.spec.tsx"]
+}
