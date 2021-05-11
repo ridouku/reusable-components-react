@@ -37,7 +37,7 @@
 
 ## About The Project
 
-This project is an alternative to bit or Storybook, to build and publish your React components in npm, simply using gulp and components wrote in typescript.
+This project is an alternative to bit or Storybook, to build and publish your React components in npm, simply using gulp and and written components in typescript.
 
 Of course, the project maybe has bugs or any problem. You may also suggest changes by forking this repo and creating a pull request or opening an issue. 
 
@@ -93,7 +93,7 @@ You must be logged with your npm account
 
 ## Usage
 
-You can read about this project and how it works, following the next link [Documentation](https://example.com)
+You can read about this project and how it works, following the next link [Documentation](https://ridouku.medium.com/create-and-publish-your-own-components-with-react-and-gulp-63a8f27e5571)
 
 <!-- CONTRIBUTING -->
 
